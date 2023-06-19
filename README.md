@@ -16,7 +16,7 @@ des poulets.
  <br><br>Vous travaillez chez La poule qui chante, une entreprise française d’agroalimentaire. Elle souhaite se développer à l'international. L'international, oui, mais pour l'instant, le champ des possibles est bien large : aucun pays particulier ni aucun continent n'est pour le moment choisi. Tous les pays sont envisageables !
 <br>Pour l'entreprise, l'objectif est qu'on lui propose une première analyse des groupements de pays qu'elle peut cibler pour exporter ses poulets.
 
-<br>Pour les besoins de les données utilisées sont celles de l'année 2017 issues de la [FAO (Food and Agriculture Organisation)](https://www.fao.org/faostat/fr/#data).
+<br>Pour les besoins de l'étude, les données utilisées sont celles de l'année 2017 issues de la [FAO (Food and Agriculture Organisation)](https://www.fao.org/faostat/fr/#data).
 
 ## <u>1.2 Objectifs</u>
 Les objectifs visés par ce projet sont les suivants : <br>
